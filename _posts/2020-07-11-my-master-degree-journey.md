@@ -1,3 +1,7 @@
+---
+title: "My Master's degree journey at NIDA"
+date: 2020-07-11
+---
 # My Master's degree journey at NIDA
 Topics
 - เทอม 1
